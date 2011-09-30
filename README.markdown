@@ -1,10 +1,8 @@
-# Doctrine 2 ORM
+# Doctrine 2 ORM - I18N Hack
 
-Doctrine 2 is an object-relational mapper (ORM) for PHP 5.3.0+ that provides transparent persistence
-for PHP objects. It sits on top of a powerful database abstraction layer (DBAL). One of its key features
-is the option to write database queries in a proprietary object oriented SQL dialect called Doctrine Query Language (DQL),
-inspired by Hibernates HQL. This provides developers with a powerful alternative to SQL that maintains flexibility
-without requiring unnecessary code duplication.
+A Doctrine2 HACK to support transparent i18n fields translation.
+
+More info to come...
 
 More resources:
 
